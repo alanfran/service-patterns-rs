@@ -1,5 +1,5 @@
 [package]
-name = "ebay-crab-examples"
+name = "service-patterns-rs"
 version = "0.1.0"
 edition = "2021"
 
