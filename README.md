@@ -1,5 +1,5 @@
 # Rust Service Patterns
-This is a companion repo to [service-patterns-go](github.com/alanfran/service-patterns-go) that shows how Rust implements the same functionality.
+This is a companion repo to [service-patterns-go](https://github.com/alanfran/service-patterns-go) that shows how Rust implements the same functionality.
 
 ## Enum
 Rust has first-class enums with compile-time gurantees to their correctnes.
